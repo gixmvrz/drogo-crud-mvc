@@ -1,0 +1,8 @@
+notas poo segun lo que voy entendiendo
+
+- el patron de arquitectura mvc crea un orden, o una estructura donde van seccionados por carpetas el tipo de funcion o interaccion a hacer
+
+- para entender mejor frente a la base de datos, lo ideal es poner los mismos nombres de las variables y metodos de cierta forma de los de la bd, asi habra un mejor control y orden
+
+- para un mejor orden de sintaxis, es recomendable usar sustantivos en singular...
+
